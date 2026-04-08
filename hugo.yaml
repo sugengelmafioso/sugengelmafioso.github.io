@@ -1,19 +1,81 @@
 baseURL: https://sugengelmafioso.github.io/
-locale: en-us
 title: Sugeng el Mafioso
+theme: hugo-coder
+languageCode: en-us
+defaultContentLanguage: en-us
+enableEmoji: true
 
-# Cache config for GitHub Pages
-caches:
-  images:
-    dir: :cacheDir/images
+pagination:
+  pagerSize: 6
 
-# Enable Git info for commits
-gitInfo:
-  format: short
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
 
-# Output config
-outputFormats:
-  markdown:
-    mediaType: text/markdown
-    baseName: index
-    extension: md
+params:
+  author: "Sugeng El Mafioso"
+  description: "Lead Engineer | Programmer | Geopolitics Enthusiast"
+  keywords:
+    - "blog"
+    - "developer"
+    - "engineer"
+    - "geopolitics"
+    - "programming"
+  info:
+    - "Lead Engineer"
+    - "Programmer"
+    - "Geopolitics"
+  avatarURL: "https://avatars.githubusercontent.com/u/1?v=4"
+  dateFormat: "January 2, 2006"
+  since: 2026
+  commit: "https://github.com/sugengelmafioso/sugengelmafioso.github.io/tree/"
+  colorScheme: "auto"
+  hideColorSchemeToggle: false
+  maxSeeAlsoItems: 5
+
+  # Social links
+  social:
+    - name: "Github"
+      icon: "fa-brands fa-github fa-2x"
+      weight: 1
+      url: "https://github.com/sugengelmafioso/"
+    - name: "Twitter"
+      icon: "fa-brands fa-x-twitter fa-2x"
+      weight: 2
+      url: "https://twitter.com/sugengelmafioso"
+    - name: "LinkedIn"
+      icon: "fa-brands fa-linkedin fa-2x"
+      weight: 3
+      url: "https://www.linkedin.com/in/sugengelmafioso"
+    - name: "Email"
+      icon: "fa-solid fa-envelope fa-2x"
+      weight: 4
+      url: "mailto:sugeng@torconsclaw.dev"
+    - name: "RSS"
+      icon: "fa-solid fa-rss fa-2x"
+      weight: 5
+      url: "https://sugengelmafioso.github.io/index.xml"
+      rel: "alternate"
+      type: "application/rss+xml"
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Posts"
+      url: "/posts/"
+      weight: 2
+    - name: "About"
+      url: "/about/"
+      weight: 3
+    - name: "Projects"
+      url: "/projects/"
+      weight: 4

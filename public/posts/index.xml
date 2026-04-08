@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Project</title>
+    <title>Posts on Sugeng el Mafioso</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Project</description>
+    <description>Recent content in Posts on Sugeng el Mafioso</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Apr 2026 20:06:45 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
+      <title>Welcome to Sugeng el Mafioso&#39;s Blog</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Tue, 07 Apr 2026 20:06:45 +0700</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;This is the first post on my new Hugo-powered blog!&lt;/p&gt;&#xA;&lt;h2 id=&#34;whats-new&#34;&gt;&#xA;  What&amp;rsquo;s New&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#whats-new&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve just migrated this site to use &lt;strong&gt;Hugo&lt;/strong&gt; with the &lt;strong&gt;hugo-coder&lt;/strong&gt; theme, hosted on &lt;strong&gt;GitHub Pages&lt;/strong&gt; via GitHub Actions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;why-hugo&#34;&gt;&#xA;  Why Hugo?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#why-hugo&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fast builds (seconds, not minutes)&lt;/li&gt;&#xA;&lt;li&gt;Static HTML output (perfect for GitHub Pages)&lt;/li&gt;&#xA;&lt;li&gt;Minimal dependencies (single binary!)&lt;/li&gt;&#xA;&lt;li&gt;Great theming system&lt;/li&gt;&#xA;&lt;li&gt;Markdown-first workflow&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;what-to-expect&#34;&gt;&#xA;  What to Expect&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-to-expect&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll be posting about:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
