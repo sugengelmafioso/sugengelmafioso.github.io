@@ -4,9 +4,7 @@ title: Posts
 draft: false
 ---
 
-Technical notes, geopolitical analysis, and project updates.
+Catatan teknis, analisis geopolitik, dan *project updates*.
 
-**Recent posts:**
-- [[2026-04-07] My First Post](/posts/my-first-post/)
-- [[Upcoming] Iran-US Conflict in the Hormuz Strait](/posts/iran-us-hormuz/)
-- [[Upcoming] AI Agent Orchestration Patterns](/posts/ai-agent-patterns/)
+**Postingan terbaru:**
+- [[2026-04-07] Selamat Datang, Dunia!](/posts/my-first-post/)
