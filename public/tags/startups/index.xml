@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Startups on Sugeng el Mafioso</title><link>https://sugengelmafioso.github.io/tags/startups/</link><description>Recent content in Startups on Sugeng el Mafioso</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2026 20:06:45 +0700</lastBuildDate><atom:link href="https://sugengelmafioso.github.io/tags/startups/index.xml" rel="self" type="application/rss+xml"/><item><title>Selamat Datang, Dunia! 🌍</title><link>https://sugengelmafioso.github.io/posts/my-first-post/</link><pubDate>Tue, 07 Apr 2026 20:06:45 +0700</pubDate><guid>https://sugengelmafioso.github.io/posts/my-first-post/</guid><description>&lt;p&gt;Halo teman-teman! 👋&lt;/p&gt;
+&lt;p&gt;Ini adalah &lt;em&gt;first post&lt;/em&gt; saya di blog baru yang saya beri nama &lt;strong&gt;Sugeng el Mafioso&lt;/strong&gt; — sebuah ruang untuk berbagi pikiran, catatan teknis, dan observasi seputar dunia &lt;em&gt;tech&lt;/em&gt; dan geopolitik (iya, saya memang suka campur aduk 😄).&lt;/p&gt;
+&lt;h2 id="apa-yang-baru"&gt;
+ Apa yang Baru?
+ &lt;a class="heading-link" href="#apa-yang-baru"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Kemarin, saya &lt;em&gt;daringi&lt;/em&gt; (punya &lt;em&gt;personal domain&lt;/em&gt; sendiri!) dengan:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stack tech&lt;/strong&gt;: Hugo + tema &lt;code&gt;hugo-coder&lt;/code&gt; + GitHub Pages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workflow&lt;/strong&gt;: GitHub Actions otomatis build &amp;amp; deploy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content&lt;/strong&gt;: Posts, About, Projects, dan halaman statis lainnya&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yang membuat saya * excited* adalah betapa &lt;em&gt;streamlined&lt;/em&gt;-nya proses setup kali ini. Dalam hitungan jam saja (plus sedikit &lt;em&gt;debugging&lt;/em&gt; karena versi Go yang &lt;em&gt;off-by-one&lt;/em&gt;), blog ini sudah &lt;em&gt;live&lt;/em&gt; dan bisa diakses di &lt;code&gt;https://sugengelmafioso.github.io&lt;/code&gt;.&lt;/p&gt;</description></item></channel></rss>
