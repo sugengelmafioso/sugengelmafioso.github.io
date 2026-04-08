@@ -1,0 +1,19 @@
+baseURL: https://sugengelmafioso.github.io/
+locale: en-us
+title: Sugeng el Mafioso
+
+# Cache config for GitHub Pages
+caches:
+  images:
+    dir: :cacheDir/images
+
+# Enable Git info for commits
+gitInfo:
+  format: short
+
+# Output config
+outputFormats:
+  markdown:
+    mediaType: text/markdown
+    baseName: index
+    extension: md
