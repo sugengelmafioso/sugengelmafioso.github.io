@@ -4,19 +4,34 @@ title: About
 draft: false
 ---
 
-Hi, I'm **Sugeng El Mafioso** — Lead Engineer and Programmer based in Indonesia.
+Hi, saya **Sugeng El Mafioso** 🐺 — seorang *Lead Engineer/Programmer* yang tinggal di Indonesia 🇮🇩.
 
-I enjoy building robust software systems, analyzing geopolitics (especially in the Asia-Pacific region), and documenting technical insights.
+## 👨‍💻 Tentang Saya
 
-**What I do:**
-- Backend & frontend development (Go, Node.js, React, Python)
-- DevOps & cloud infrastructure (GitHub Actions, Docker, Terraform)
-- Technical writing and documentation
-- Geopolitical analysis and commentary
+Saya suka membangun sistem yang *robust* dan *efisien*, dengan sentuhan *creative* di setiap *layer* — dari kode, infrastruktur, sampai dokumentasi. Kalau boleh jujur, saya lebih *nyaman* bekerja dengan *independent* (maka julukan "lone wolf" 😌), tapi saya juga *happy* *collaborate* dengan tim yang *open-minded* dan suka *deep-dive*.
 
-**Tech Stack:**
-- Languages: Go, JavaScript/TypeScript, Python, Ruby
-- Frameworks: Hugo, React, Next.js, NestJS, FastAPI
-- Infrastructure: GitHub Actions, Docker, AWS, Cloudflare
+## 🛠️ Tech Stack Saya
 
-Feel free to explore my posts, projects, or reach out via social links above!
+- **Languages**: Go, JavaScript/TypeScript, Python, Ruby
+- **Frameworks**: Hugo, React, Next.js, NestJS, FastAPI
+- **Infrastructure**: GitHub Actions, Docker, Terraform, AWS, Cloudflare
+- **Tools**: tmux, CLI-first workflow, *keyboard-driven* everything 🎹
+
+## 🌍 Minat Tambahan
+
+Selain *coding*, saya juga *fascinated* sama:
+
+- **Geopolitics**, terutama di kawasan Asia-Pacific dan Timur Tengah 🗺️
+- **AI Agents & LLMs**, bagaimana mesin bisa *berkolaborasi* dengan manusia 💡
+- **Documentation culture** — *good docs = good team* 📚
+
+## 📬 Hubungi Saya
+
+Saya *open* untuk *collab*, *feedback*, atau sekadar *chat*. Kamu bisa menemukan saya di:
+
+- **Email**: `sugeng@digitalsekuriti.id` ✉️
+- **GitHub**: [@sugengelmafioso](https://github.com/sugengelmafioso) 🐙
+- **Twitter/X**: [@sugengelmafioso](https://twitter.com/sugengelmafioso) 🐦
+- **LinkedIn**: [Sugeng El Mafioso](https://www.linkedin.com/in/sugengelmafioso) 💼
+
+Selamat membaca, dan *thank you* sudah mampir! 🙏
