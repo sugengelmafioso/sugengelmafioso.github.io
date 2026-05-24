@@ -1,7 +1,7 @@
 ---
 date: 2026-05-24T20:30:00+07:00
 title: "Teori Sosial Kritis Buat yang males bacanya \U0001F4DA\U0001F4B8"
-draft: true
+draft: false
 tags: [sosiologi, filsafat, critical-social-theory, edukasi]
 ---
 
