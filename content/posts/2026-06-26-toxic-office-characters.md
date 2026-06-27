@@ -78,12 +78,12 @@ Coba presentasi bareng → NPD: *steal your idea, present it as his*
 **Ciri-ciri:**
 - Nggak pernah bilang "no" — hasilnya *burnout* dan *blame everyone*
 - Selalu nge-*promise* deadline yang nggak realistic
-- Kalau project gagal, dia nge-*blame* diri sendiri过度
-- Kalau project sukses, dia nge-*credit* everyone过度
+- Kalau project gagal, dia nge-*blame* diri sendiri terlalu banyak
+- Kalau project sukses, dia nge-*credit* semua orang terlalu banyak
 
 **Cara Mengenali:**
 - Nge-*accept* 15 tasks dalam 1 hari
-- Nge-*compliment*过度 tapi nggak pernah nge-*feedback* yang *constructive*
+- Nge-*compliment* terlalu banyak tapi nggak pernah nge-*feedback* yang *constructive*
 - Nge-*sweat* tapi senyum terus
 
 **People-Pleaser Quote:** *"Tentu saja aku bisa kerjain itu! Aku bisa *deadline* besok pagi!"* (padahal dia punya 5 project lain)
